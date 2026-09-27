@@ -685,12 +685,12 @@ export default function LivornoPage() {
                 </p>
 
                 <p>
-                  La questione centrale non era soltanto l'adesione alla
+                  La questione centrale non era soltanto l&apos;adesione alla
                   Rivoluzione russa. Il PSI aveva già aderito alla Terza
                   Internazionale e una parte consistente del massimalismo
                   continuava a dichiararsi rivoluzionaria. Il conflitto decisivo
-                  riguardava soprattutto l'espulsione dei riformisti e
-                  l'accettazione integrale delle condizioni organizzative
+                  riguardava soprattutto l&apos;espulsione dei riformisti e
+                  l&apos;accettazione integrale delle condizioni organizzative
                   stabilite dal Comintern.
                 </p>
 
@@ -709,18 +709,18 @@ export default function LivornoPage() {
                 </p>
               </Section>
 
-              <Section id="bordiga-gramsci" num="Approfondimento" title="Bordiga, Gramsci e il Comintern: l'unità dei fondatori dura poco">
+              <Section id="bordiga-gramsci" num="Approfondimento" title="Bordiga, Gramsci e il Comintern: l&apos;unità dei fondatori dura poco">
                 <p>
                   Nel gennaio 1921 Bordiga e Gramsci appartengono alla stessa
                   frazione comunista, ma non condividono già una concezione
-                  identica della politica. La direzione iniziale del PCd'I
-                  risente soprattutto dell'impostazione bordighiana, più
+                  identica della politica. La direzione iniziale del PCd&apos;I
+                  risente soprattutto dell&apos;impostazione bordighiana, più
                   diffidente verso alleanze e compromessi con altre forze
                   del movimento operaio.
                 </p>
 
                 <p>
-                  Negli anni successivi l'Internazionale Comunista insiste
+                  Negli anni successivi l&apos;Internazionale Comunista insiste
                   invece sul fronte unico e sulla necessità di conquistare
                   settori più ampi delle masse socialiste. La distanza tra
                   Bordiga e il Comintern cresce, mentre Gramsci sviluppa una
@@ -736,7 +736,7 @@ export default function LivornoPage() {
 
                 <p>
                   Questa evoluzione è importante perché impedisce di descrivere
-                  il PCd'I come organizzazione politicamente immutabile fin
+                  il PCd&apos;I come organizzazione politicamente immutabile fin
                   dalla fondazione. Nei primi cinque anni cambiano leadership,
                   tattica e interpretazione della società italiana.
                 </p>
@@ -754,7 +754,7 @@ export default function LivornoPage() {
                   Questo dato ha alimentato una lunga discussione storica:
                   la divisione del movimento socialista indebolì la capacità
                   di resistere al fascismo oppure rifletteva contraddizioni
-                  politiche che rendevano comunque difficile un'azione comune?
+                  politiche che rendevano comunque difficile un&apos;azione comune?
                 </p>
 
                 <p>
@@ -763,14 +763,14 @@ export default function LivornoPage() {
                   sostegni sociali ed economici, crisi dello Stato liberale,
                   divisioni delle opposizioni e decisioni delle istituzioni.
                   La scissione comunista fu uno degli elementi del quadro,
-                  ma non una spiegazione autosufficiente dell'avvento del fascismo.
+                  ma non una spiegazione autosufficiente dell&apos;avvento del fascismo.
                 </p>
 
                 <InfoBox title="Metodo storico">
                   Collegare due eventi cronologicamente vicini non significa
-                  attribuire automaticamente all'uno la causa dell'altro.
-                  Livorno e l'ascesa fascista vanno studiati dentro la crisi
-                  complessiva dell'Italia del primo dopoguerra.
+                  attribuire automaticamente all&apos;uno la causa dell&apos;altro.
+                  Livorno e l&apos;ascesa fascista vanno studiati dentro la crisi
+                  complessiva dell&apos;Italia del primo dopoguerra.
                 </InfoBox>
               </Section>
 
