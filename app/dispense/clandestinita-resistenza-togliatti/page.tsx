@@ -533,7 +533,7 @@ export default function Page() {
                   Allo stesso tempo, la Resistenza resta politicamente plurale:
                   accanto alle formazioni comuniste operano Giustizia e Libertà,
                   Matteotti, formazioni cattoliche, liberali, monarchiche e
-                  autonome. Attribuire l'intera Resistenza a un solo partito
+                  autonome. Attribuire l&apos;intera Resistenza a un solo partito
                   sarebbe quindi storicamente scorretto.
                 </p>
               </Section>
@@ -547,7 +547,7 @@ export default function Page() {
                 </p>
 
                 <p>
-                  Per un'organizzazione che per quasi vent'anni aveva operato
+                  Per un&apos;organizzazione che per quasi vent&apos;anni aveva operato
                   illegalmente si tratta di una trasformazione politica
                   radicale. Il partito deve passare dalla logica della
                   clandestinità a quella della responsabilità istituzionale:
@@ -572,16 +572,16 @@ export default function Page() {
                 </p>
 
                 <p>
-                  L'obiettivo politico era favorire una pacificazione nazionale
+                  L&apos;obiettivo politico era favorire una pacificazione nazionale
                   e chiudere una parte dei procedimenti legati al periodo
-                  fascista e bellico. L'applicazione concreta dell'amnistia
+                  fascista e bellico. L&apos;applicazione concreta dell&apos;amnistia
                   risultò però controversa e coinvolse anche numerosi ex fascisti.
                 </p>
 
                 <p>
                   Per valutarla storicamente bisogna distinguere almeno tre
                   livelli: le intenzioni del governo e del ministro, il testo
-                  giuridico del provvedimento e l'interpretazione applicata
+                  giuridico del provvedimento e l&apos;interpretazione applicata
                   dalla magistratura. Confondere questi piani porta facilmente
                   a giudizi semplificati.
                 </p>
@@ -589,7 +589,7 @@ export default function Page() {
 
               <Section id="articolo7" num="Approfondimento" title="L'articolo 7 e la scelta di non riaprire il conflitto religioso">
                 <p>
-                  Alla Costituente il PCI vota a favore dell'articolo 7,
+                  Alla Costituente il PCI vota a favore dell&apos;articolo 7,
                   che recepisce nel nuovo ordinamento costituzionale il
                   riferimento ai Patti Lateranensi nei rapporti tra Stato
                   e Chiesa cattolica.
@@ -623,14 +623,14 @@ export default function Page() {
 
                 <p>
                   Altre interpretazioni insistono sul permanere del forte
-                  legame con l'Unione Sovietica e sull'ambiguità di un partito
+                  legame con l&apos;Unione Sovietica e sull&apos;ambiguità di un partito
                   che partecipava alla democrazia italiana restando parte del
                   movimento comunista internazionale.
                 </p>
 
                 <p>
                   I due aspetti non sono necessariamente alternativi:
-                  l'originalità nazionale del PCI e il rapporto con Mosca
+                  l&apos;originalità nazionale del PCI e il rapporto con Mosca
                   coesistono per decenni. La loro tensione sarà uno dei temi
                   centrali della storia successiva del partito, fino alla
                   progressiva autonomia delle generazioni successive.
@@ -638,7 +638,7 @@ export default function Page() {
 
                 <InfoBox title="Una distinzione necessaria">
                   Descrivere il PCI come partito radicato nella Repubblica non
-                  implica negare il suo legame con l'URSS; documentare quel
+                  implica negare il suo legame con l&apos;URSS; documentare quel
                   legame non consente, da solo, di cancellare la specificità
                   della strategia politica italiana.
                 </InfoBox>
