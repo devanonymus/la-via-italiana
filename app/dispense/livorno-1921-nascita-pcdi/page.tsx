@@ -31,6 +31,9 @@ const indice = [
   ["#repressione", "18. La repressione fascista"],
   ["#continuita-rotture", "19. Continuità e rotture"],
   ["#interpretazioni", "20. Interpretazioni storiche"],
+  ["#serrati-maggioranza", "Approfondimento · Perché la maggioranza restò con Serrati"],
+  ["#bordiga-gramsci", "Approfondimento · Bordiga, Gramsci e il Comintern"],
+  ["#scissione-fascismo", "Approfondimento · Scissione socialista e avanzata fascista"],
   ["#cronologia", "21. Cronologia essenziale"],
   ["#glossario", "22. Glossario"],
   ["#fonti", "23. Fonti e bibliografia"],
@@ -72,7 +75,7 @@ export default function LivornoPage() {
           <header className="border-b border-[var(--border)]">
             <div className="container-site py-16 md:py-24">
               <Link
-                href="/dispense/gramsci-egemonia"
+                href="/dispense"
                 className="text-xs font-bold uppercase tracking-[0.12em] text-[var(--red)]"
               >
                 ← Torna alle dispense
@@ -104,7 +107,7 @@ export default function LivornoPage() {
                   <Meta label="Autore" value="La Via Italiana" />
                   <Meta label="Periodo" value="1917–1926" />
                   <Meta label="Livello" value="Approfondito" />
-                  <Meta label="Lettura" value="30–40 minuti" />
+                  <Meta label="Lettura" value="50–60 minuti" />
                 </div>
               </div>
             </div>
@@ -670,6 +673,105 @@ export default function LivornoPage() {
                   quali alternative erano disponibili e quali conseguenze
                   ebbero le decisioni dei diversi gruppi dirigenti.
                 </p>
+              </Section>
+
+
+              <Section id="serrati-maggioranza" num="Approfondimento" title="Perché la maggioranza socialista non seguì i comunisti">
+                <p>
+                  La scissione di Livorno viene talvolta raccontata come esito
+                  inevitabile di una divisione già compiuta. I numeri del congresso
+                  mostrano invece che la maggioranza dei delegati socialisti
+                  rimase con la mozione massimalista unitaria guidata da Serrati.
+                </p>
+
+                <p>
+                  La questione centrale non era soltanto l'adesione alla
+                  Rivoluzione russa. Il PSI aveva già aderito alla Terza
+                  Internazionale e una parte consistente del massimalismo
+                  continuava a dichiararsi rivoluzionaria. Il conflitto decisivo
+                  riguardava soprattutto l'espulsione dei riformisti e
+                  l'accettazione integrale delle condizioni organizzative
+                  stabilite dal Comintern.
+                </p>
+
+                <p>
+                  Serrati sosteneva che rompere il PSI avrebbe indebolito il
+                  movimento operaio proprio mentre il fascismo stava crescendo.
+                  I comunisti ritenevano invece che mantenere nello stesso
+                  partito riformisti, massimalisti e rivoluzionari impedisse
+                  la costruzione di una direzione coerente.
+                </p>
+
+                <p>
+                  È quindi più corretto leggere Livorno come uno scontro tra
+                  differenti concezioni del partito e della strategia, non come
+                  semplice separazione tra rivoluzionari e non rivoluzionari.
+                </p>
+              </Section>
+
+              <Section id="bordiga-gramsci" num="Approfondimento" title="Bordiga, Gramsci e il Comintern: l'unità dei fondatori dura poco">
+                <p>
+                  Nel gennaio 1921 Bordiga e Gramsci appartengono alla stessa
+                  frazione comunista, ma non condividono già una concezione
+                  identica della politica. La direzione iniziale del PCd'I
+                  risente soprattutto dell'impostazione bordighiana, più
+                  diffidente verso alleanze e compromessi con altre forze
+                  del movimento operaio.
+                </p>
+
+                <p>
+                  Negli anni successivi l'Internazionale Comunista insiste
+                  invece sul fronte unico e sulla necessità di conquistare
+                  settori più ampi delle masse socialiste. La distanza tra
+                  Bordiga e il Comintern cresce, mentre Gramsci sviluppa una
+                  linea più vicina ai nuovi orientamenti internazionali.
+                </p>
+
+                <p>
+                  Tra il 1923 e il 1924 il gruppo raccolto attorno a Gramsci
+                  assume progressivamente la direzione politica del partito.
+                  Il Congresso di Lione del 1926 sancisce poi la prevalenza
+                  di questa linea.
+                </p>
+
+                <p>
+                  Questa evoluzione è importante perché impedisce di descrivere
+                  il PCd'I come organizzazione politicamente immutabile fin
+                  dalla fondazione. Nei primi cinque anni cambiano leadership,
+                  tattica e interpretazione della società italiana.
+                </p>
+              </Section>
+
+              <Section id="scissione-fascismo" num="Approfondimento" title="La scissione mentre il fascismo avanza">
+                <p>
+                  Livorno avviene mentre lo squadrismo fascista è già in forte
+                  crescita. Sedi socialiste, cooperative, camere del lavoro
+                  e amministrazioni locali vengono colpite in numerose aree
+                  del Paese.
+                </p>
+
+                <p>
+                  Questo dato ha alimentato una lunga discussione storica:
+                  la divisione del movimento socialista indebolì la capacità
+                  di resistere al fascismo oppure rifletteva contraddizioni
+                  politiche che rendevano comunque difficile un'azione comune?
+                </p>
+
+                <p>
+                  Non esiste una risposta che possa essere ridotta a un solo
+                  fattore. La vittoria fascista dipese da violenza organizzata,
+                  sostegni sociali ed economici, crisi dello Stato liberale,
+                  divisioni delle opposizioni e decisioni delle istituzioni.
+                  La scissione comunista fu uno degli elementi del quadro,
+                  ma non una spiegazione autosufficiente dell'avvento del fascismo.
+                </p>
+
+                <InfoBox title="Metodo storico">
+                  Collegare due eventi cronologicamente vicini non significa
+                  attribuire automaticamente all'uno la causa dell'altro.
+                  Livorno e l'ascesa fascista vanno studiati dentro la crisi
+                  complessiva dell'Italia del primo dopoguerra.
+                </InfoBox>
               </Section>
 
               <Section id="cronologia" num="21" title="Cronologia essenziale">
