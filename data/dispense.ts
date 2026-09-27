@@ -19,7 +19,7 @@ export const dispense: Dispensa[] = [
     excerpt:
       "La scissione socialista, Bordiga, Gramsci, il Comintern e le origini del comunismo italiano organizzato.",
     author: "La Via Italiana",
-    readingTime: "18 min",
+    readingTime: "50–60 min",
     status: "Disponibile",
     featured: true,
   },
@@ -36,52 +36,6 @@ export const dispense: Dispensa[] = [
     featured: true,
   },
   {
-    slug: "berlinguer-via-democratica-socialismo",
-    title: "Enrico Berlinguer e la via democratica al socialismo",
-    category: "Berlinguer",
-    period: "1972–1984",
-    excerpt:
-      "Democrazia, pluralismo, autonomia dall’URSS e trasformazione del PCI durante la segreteria Berlinguer.",
-    author: "La Via Italiana",
-    readingTime: "25 min",
-    status: "In preparazione",
-    featured: true,
-  },
-  {
-    slug: "questione-morale-berlinguer",
-    title: "La questione morale secondo Enrico Berlinguer",
-    category: "Berlinguer",
-    period: "1981",
-    excerpt:
-      "Partiti, istituzioni, potere e interesse generale: origine e significato della questione morale.",
-    author: "La Via Italiana",
-    readingTime: "20 min",
-    status: "In preparazione",
-  },
-  {
-    slug: "pci-unione-sovietica",
-    title: "Il PCI e l’Unione Sovietica",
-    category: "Politica internazionale",
-    period: "1921–1989",
-    excerpt:
-      "Dal legame con il Comintern alla progressiva autonomia politica del comunismo italiano.",
-    author: "La Via Italiana",
-    readingTime: "28 min",
-    status: "In preparazione",
-  },
-  {
-    slug: "compromesso-storico",
-    title: "Il compromesso storico",
-    category: "Berlinguer",
-    period: "1973–1979",
-    excerpt:
-      "Origini, obiettivi, rapporto con la Democrazia Cristiana e conseguenze della strategia berlingueriana.",
-    author: "La Via Italiana",
-    readingTime: "24 min",
-    status: "In preparazione",
-  },
-
-  {
     slug: "clandestinita-resistenza-togliatti",
     title: "Dalla clandestinità alla Repubblica: Togliatti, Resistenza e partito nuovo",
     category: "Storia del PCI",
@@ -89,8 +43,53 @@ export const dispense: Dispensa[] = [
     excerpt:
       "Clandestinità, antifascismo, Comintern, Resistenza, svolta di Salerno e trasformazione del PCI in grande partito di massa.",
     author: "La Via Italiana",
-    readingTime: "60–75 min",
+    readingTime: "75–90 min",
     status: "Disponibile",
     featured: true,
+  },
+  {
+    slug: "pci-unione-sovietica",
+    title: "Il PCI e l’Unione Sovietica",
+    category: "Politica internazionale",
+    period: "1921–1989",
+    excerpt:
+      "Dal Comintern alla via italiana, dal 1956 a Praga, dall’eurocomunismo allo strappo di Berlinguer.",
+    author: "La Via Italiana",
+    readingTime: "65–80 min",
+    status: "Disponibile",
+  },
+  {
+    slug: "berlinguer-via-democratica-socialismo",
+    title: "Enrico Berlinguer e la via democratica al socialismo",
+    category: "Berlinguer",
+    period: "1972–1984",
+    excerpt:
+      "Democrazia, pluralismo, eurocomunismo, autonomia dall’URSS e trasformazione del PCI durante la segreteria Berlinguer.",
+    author: "La Via Italiana",
+    readingTime: "55–70 min",
+    status: "Disponibile",
+    featured: true,
+  },
+  {
+    slug: "compromesso-storico",
+    title: "Il compromesso storico",
+    category: "Berlinguer",
+    period: "1973–1979",
+    excerpt:
+      "Dal Cile alla solidarietà nazionale: origini, alleanze, rapporto con la DC, Moro e crisi della strategia.",
+    author: "La Via Italiana",
+    readingTime: "50–65 min",
+    status: "Disponibile",
+  },
+  {
+    slug: "questione-morale-berlinguer",
+    title: "La questione morale secondo Enrico Berlinguer",
+    category: "Berlinguer",
+    period: "1981",
+    excerpt:
+      "Partiti, istituzioni, potere e interesse generale: il significato politico della questione morale nell’intervista del 28 luglio 1981.",
+    author: "La Via Italiana",
+    readingTime: "45–55 min",
+    status: "Disponibile",
   },
 ];

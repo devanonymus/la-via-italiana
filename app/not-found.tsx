@@ -19,12 +19,12 @@ export default function NotFound() {
             </div>
 
             <h1 className="font-editorial mt-4 text-5xl font-semibold tracking-[-0.03em] md:text-6xl">
-              Questa pagina non è nell'archivio.
+              Questa pagina non è nell&apos;archivio.
             </h1>
 
             <p className="mt-7 max-w-xl text-base leading-8 text-[var(--muted)]">
               Il contenuto potrebbe essere stato spostato,
-              non essere ancora disponibile oppure l'indirizzo potrebbe
+              non essere ancora disponibile oppure l&apos;indirizzo potrebbe
               non essere corretto.
             </p>
 

@@ -13,7 +13,7 @@ export const berlinguerThemes: BerlinguerTheme[] = [
     description:
       "Il rapporto tra socialismo, democrazia parlamentare, pluralismo politico e trasformazione della società italiana.",
     href: "/dispense/berlinguer-via-democratica-socialismo",
-    status: "In preparazione",
+    status: "Disponibile",
   },
   {
     title: "Il compromesso storico",
@@ -21,7 +21,7 @@ export const berlinguerThemes: BerlinguerTheme[] = [
     description:
       "La proposta di collaborazione tra comunisti, socialisti e cattolici democratici elaborata negli anni Settanta.",
     href: "/dispense/compromesso-storico",
-    status: "In preparazione",
+    status: "Disponibile",
   },
   {
     title: "La questione morale",
@@ -29,7 +29,7 @@ export const berlinguerThemes: BerlinguerTheme[] = [
     description:
       "La critica alla degenerazione dei partiti, all'occupazione delle istituzioni e alla perdita del rapporto con l'interesse generale.",
     href: "/dispense/questione-morale-berlinguer",
-    status: "In preparazione",
+    status: "Disponibile",
   },
   {
     title: "Il rapporto con l'URSS",
@@ -37,7 +37,7 @@ export const berlinguerThemes: BerlinguerTheme[] = [
     description:
       "Dal progressivo distacco dall'Unione Sovietica all'eurocomunismo e alla ricerca di una via autonoma del PCI.",
     href: "/dispense/pci-unione-sovietica",
-    status: "In preparazione",
+    status: "Disponibile",
   },
 ];
 

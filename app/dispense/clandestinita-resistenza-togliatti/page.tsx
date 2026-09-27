@@ -31,6 +31,11 @@ const indice = [
   ["#costituzione", "18. PCI e Costituzione"],
   ["#1947", "19. L’esclusione dal governo"],
   ["#continuita", "20. Continuità e rotture"],
+  ["#formazioni", "Approfondimento · Brigate Garibaldi, GAP e SAP"],
+  ["#governo", "Approfondimento · Il PCI al governo 1944–1947"],
+  ["#amnistia", "Approfondimento · L’amnistia del 1946"],
+  ["#articolo7", "Approfondimento · Togliatti e l’articolo 7"],
+  ["#storiografia", "Approfondimento · Nodi storiografici"],
   ["#cronologia", "21. Cronologia"],
   ["#fonti", "22. Fonti"],
 ];
@@ -79,7 +84,7 @@ export default function Page() {
                   <Meta label="Autore" value="La Via Italiana" />
                   <Meta label="Periodo" value="1926–1948" />
                   <Meta label="Livello" value="Monografico" />
-                  <Meta label="Lettura" value="50–60 minuti" />
+                  <Meta label="Lettura" value="75–90 minuti" />
                 </div>
               </div>
             </div>
@@ -497,6 +502,146 @@ export default function Page() {
                   rightTitle="PCI dopoguerra"
                   right="Partito nazionale di massa, inserito nelle istituzioni repubblicane e radicato nella società."
                 />
+              </Section>
+
+
+              <Section id="formazioni" num="Approfondimento" title="Brigate Garibaldi, GAP e SAP: organizzare la lotta armata">
+                <p>
+                  Il ruolo comunista nella Resistenza non si esaurisce nella
+                  presenza individuale dei militanti. Il partito contribuisce
+                  alla costruzione di strutture differenti per dimensioni,
+                  territorio e funzione.
+                </p>
+
+                <p>
+                  Le Brigate Garibaldi costituiscono una delle principali
+                  componenti del movimento partigiano e hanno un riferimento
+                  politico comunista, pur non essendo composte esclusivamente
+                  da iscritti al PCI. I GAP operano soprattutto in piccoli
+                  nuclei clandestini nelle città; le SAP mirano invece a una
+                  partecipazione più larga nei quartieri e nei luoghi di lavoro.
+                </p>
+
+                <p>
+                  Questa articolazione mostra che la Resistenza non coincide
+                  soltanto con la guerriglia in montagna. Comprende sabotaggio,
+                  reti informative, propaganda clandestina, mobilitazione
+                  operaia e preparazione delle insurrezioni urbane.
+                </p>
+
+                <p>
+                  Allo stesso tempo, la Resistenza resta politicamente plurale:
+                  accanto alle formazioni comuniste operano Giustizia e Libertà,
+                  Matteotti, formazioni cattoliche, liberali, monarchiche e
+                  autonome. Attribuire l&apos;intera Resistenza a un solo partito
+                  sarebbe quindi storicamente scorretto.
+                </p>
+              </Section>
+
+              <Section id="governo" num="Approfondimento" title="1944–1947: da partito clandestino a forza di governo">
+                <p>
+                  Dopo la svolta di Salerno il PCI entra nei governi di unità
+                  antifascista. Togliatti ricopre incarichi di primo piano,
+                  tra cui la vicepresidenza del Consiglio e il ministero
+                  della Giustizia.
+                </p>
+
+                <p>
+                  Per un&apos;organizzazione che per quasi vent&apos;anni aveva operato
+                  illegalmente si tratta di una trasformazione politica
+                  radicale. Il partito deve passare dalla logica della
+                  clandestinità a quella della responsabilità istituzionale:
+                  amministrazione, produzione legislativa, ordine pubblico,
+                  ricostruzione e compromesso con altre culture politiche.
+                </p>
+
+                <p>
+                  La partecipazione governativa è anche uno dei terreni sui
+                  quali prende forma il partito nuovo. Il PCI non rinuncia alla
+                  propria identità comunista, ma cerca di radicarsi nello Stato
+                  repubblicano nascente e di presentarsi come forza nazionale.
+                </p>
+              </Section>
+
+              <Section id="amnistia" num="Approfondimento" title="L'amnistia del 1946: pacificazione e controversie">
+                <p>
+                  Da ministro della Giustizia, Togliatti è legato al decreto
+                  di amnistia del 22 giugno 1946. Il provvedimento rientra nella
+                  politica di normalizzazione dello Stato dopo dittatura,
+                  occupazione e guerra civile.
+                </p>
+
+                <p>
+                  L&apos;obiettivo politico era favorire una pacificazione nazionale
+                  e chiudere una parte dei procedimenti legati al periodo
+                  fascista e bellico. L&apos;applicazione concreta dell&apos;amnistia
+                  risultò però controversa e coinvolse anche numerosi ex fascisti.
+                </p>
+
+                <p>
+                  Per valutarla storicamente bisogna distinguere almeno tre
+                  livelli: le intenzioni del governo e del ministro, il testo
+                  giuridico del provvedimento e l&apos;interpretazione applicata
+                  dalla magistratura. Confondere questi piani porta facilmente
+                  a giudizi semplificati.
+                </p>
+              </Section>
+
+              <Section id="articolo7" num="Approfondimento" title="L'articolo 7 e la scelta di non riaprire il conflitto religioso">
+                <p>
+                  Alla Costituente il PCI vota a favore dell&apos;articolo 7,
+                  che recepisce nel nuovo ordinamento costituzionale il
+                  riferimento ai Patti Lateranensi nei rapporti tra Stato
+                  e Chiesa cattolica.
+                </p>
+
+                <p>
+                  La scelta di Togliatti suscita discussioni nella sinistra,
+                  ma è coerente con la strategia di ampia unità nazionale:
+                  il segretario comunista ritiene rischioso trasformare la
+                  costruzione della Repubblica in uno scontro frontale con
+                  il mondo cattolico.
+                </p>
+
+                <p>
+                  Il voto mostra concretamente la distanza dal massimalismo
+                  delle origini. Il PCI accetta un compromesso costituzionale
+                  su un tema sensibile per una parte importante della propria
+                  base perché attribuisce priorità alla stabilizzazione del
+                  nuovo quadro democratico.
+                </p>
+              </Section>
+
+              <Section id="storiografia" num="Approfondimento" title="I nodi storiografici: autonomia, Mosca e democrazia">
+                <p>
+                  La politica togliattiana del dopoguerra è stata interpretata
+                  secondo letture differenti. Una linea di studi sottolinea
+                  la costruzione di una strategia nazionale originale,
+                  fondata sul partito di massa, sulla Costituzione e sulla
+                  democrazia progressiva.
+                </p>
+
+                <p>
+                  Altre interpretazioni insistono sul permanere del forte
+                  legame con l&apos;Unione Sovietica e sull&apos;ambiguità di un partito
+                  che partecipava alla democrazia italiana restando parte del
+                  movimento comunista internazionale.
+                </p>
+
+                <p>
+                  I due aspetti non sono necessariamente alternativi:
+                  l&apos;originalità nazionale del PCI e il rapporto con Mosca
+                  coesistono per decenni. La loro tensione sarà uno dei temi
+                  centrali della storia successiva del partito, fino alla
+                  progressiva autonomia delle generazioni successive.
+                </p>
+
+                <InfoBox title="Una distinzione necessaria">
+                  Descrivere il PCI come partito radicato nella Repubblica non
+                  implica negare il suo legame con l&apos;URSS; documentare quel
+                  legame non consente, da solo, di cancellare la specificità
+                  della strategia politica italiana.
+                </InfoBox>
               </Section>
 
               <Section id="cronologia" num="21" title="Cronologia essenziale">

@@ -40,7 +40,7 @@ export default function BerlinguerPage() {
                 Segretario generale del PCI dal 1972 al 1984, protagonista
                 della trasformazione politica del comunismo italiano,
                 del compromesso storico e del progressivo distacco
-                dall'Unione Sovietica.
+                dall&apos;Unione Sovietica.
               </p>
 
               <div className="mt-10 flex flex-wrap gap-4">
@@ -122,14 +122,14 @@ export default function BerlinguerPage() {
               <div className="max-w-3xl">
                 <p className="text-base leading-8 text-white/70">
                   Durante la segreteria Berlinguer il PCI consolidò una linea
-                  sempre più autonoma rispetto all'Unione Sovietica e cercò
+                  sempre più autonoma rispetto all&apos;Unione Sovietica e cercò
                   una propria collocazione nella sinistra europea occidentale.
                 </p>
 
                 <p className="mt-5 text-base leading-8 text-white/70">
                   La sua strategia politica fu segnata dal compromesso storico,
                   dalla stagione della solidarietà nazionale e, negli anni
-                  successivi, dal ritorno all'opposizione e dall'alternativa
+                  successivi, dal ritorno all&apos;opposizione e dall&apos;alternativa
                   democratica.
                 </p>
               </div>
@@ -148,7 +148,7 @@ export default function BerlinguerPage() {
             </h2>
 
             <p className="mt-5 max-w-2xl text-base leading-8 text-[var(--muted)]">
-              Il pensiero e l'azione politica di Berlinguer vengono analizzati
+              Il pensiero e l&apos;azione politica di Berlinguer vengono analizzati
               per temi, distinguendo contesto storico, documenti originali
               e interpretazioni successive.
             </p>
@@ -243,7 +243,7 @@ export default function BerlinguerPage() {
               </div>
 
               <h2 className="font-editorial mt-4 text-5xl font-semibold leading-[1.05]">
-                Studiare Berlinguer senza trasformarlo in un'icona.
+                Studiare Berlinguer senza trasformarlo in un&apos;icona.
               </h2>
             </div>
 
@@ -255,7 +255,7 @@ export default function BerlinguerPage() {
               </p>
 
               <p className="mt-5 text-base leading-8 text-[var(--muted)]">
-                L'obiettivo è distinguere le posizioni effettivamente sostenute
+                L&apos;obiettivo è distinguere le posizioni effettivamente sostenute
                 da Berlinguer dalle interpretazioni e dalle riletture
                 sviluppatesi successivamente.
               </p>
