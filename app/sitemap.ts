@@ -18,6 +18,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/dispense/livorno-1921-nascita-pcdi",
     "/dispense/gramsci-egemonia",
     "/dispense/clandestinita-resistenza-togliatti",
+    "/dispense/berlinguer-via-democratica-socialismo",
+    "/dispense/questione-morale-berlinguer",
+    "/dispense/pci-unione-sovietica",
+    "/dispense/compromesso-storico",
   ];
 
   return routes.map((route) => ({
