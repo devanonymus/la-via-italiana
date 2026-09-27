@@ -19,7 +19,7 @@ export const dispense: Dispensa[] = [
     excerpt:
       "La scissione socialista, Bordiga, Gramsci, il Comintern e le origini del comunismo italiano organizzato.",
     author: "La Via Italiana",
-    readingTime: "18 min",
+    readingTime: "50–60 min",
     status: "Disponibile",
     featured: true,
   },
@@ -43,7 +43,7 @@ export const dispense: Dispensa[] = [
     excerpt:
       "Clandestinità, antifascismo, Comintern, Resistenza, svolta di Salerno e trasformazione del PCI in grande partito di massa.",
     author: "La Via Italiana",
-    readingTime: "60–75 min",
+    readingTime: "75–90 min",
     status: "Disponibile",
     featured: true,
   },
