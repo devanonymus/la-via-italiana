@@ -10,6 +10,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/dispense",
     "/berlinguer",
     "/pensiero",
+    "/pensiero/marxismo",
     "/pci-oggi",
     "/documenti",
     "/chi-siamo",

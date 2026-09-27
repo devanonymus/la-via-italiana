@@ -11,40 +11,53 @@ export const metadata: Metadata = {
 
 const temi = [
   {
+    title: "Marxismo",
+    author: "Karl Marx e Friedrich Engels",
+    description:
+      "Materialismo storico, lotta di classe, critica dell’economia politica, Stato, socialismo e comunismo.",
+    href: "/pensiero/marxismo",
+  },
+  {
     title: "Egemonia",
     author: "Antonio Gramsci",
     description:
       "Consenso, società civile e capacità di una classe sociale di costruire direzione culturale e politica.",
+    href: "/dispense/gramsci-egemonia",
   },
   {
     title: "Via italiana al socialismo",
     author: "PCI",
     description:
       "Lo sviluppo di una strategia politica legata alle caratteristiche della democrazia e della società italiana.",
+    href: "/dispense",
   },
   {
     title: "Democrazia e socialismo",
     author: "Enrico Berlinguer",
     description:
       "Il rapporto tra trasformazione socialista, pluralismo politico e istituzioni democratiche.",
+    href: "/dispense/berlinguer-via-democratica-socialismo",
   },
   {
     title: "Questione morale",
     author: "Enrico Berlinguer",
     description:
       "Partiti, istituzioni, interesse generale e degenerazione del sistema politico.",
+    href: "/dispense/questione-morale-berlinguer",
   },
   {
     title: "Lavoro",
     author: "Movimento comunista italiano",
     description:
       "Centralità del lavoro, organizzazione dei lavoratori, diritti e trasformazione economica.",
+    href: "/documenti",
   },
   {
     title: "Internazionalismo",
     author: "PCI",
     description:
       "Rapporto tra movimento comunista internazionale, autonomia nazionale, pace e politica estera.",
+    href: "/dispense/pci-unione-sovietica",
   },
 ];
 
@@ -105,7 +118,7 @@ export default function PensieroPage() {
                 </p>
 
                 <Link
-                  href="/dispense"
+                  href={tema.href}
                   className="mt-7 inline-block text-sm font-bold text-[var(--red)]"
                 >
                   Approfondisci →

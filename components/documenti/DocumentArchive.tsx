@@ -5,11 +5,7 @@ import { documenti } from "@/data/documenti";
 
 const types = [
   "Tutti",
-  "Intervista",
-  "Articoli politici",
-  "Intervento politico",
-  "Documento storico",
-  "Opera politica",
+  ...Array.from(new Set(documenti.map((item) => item.type))),
 ];
 
 export default function DocumentArchive() {
@@ -45,9 +41,9 @@ export default function DocumentArchive() {
             </h1>
 
             <p className="mt-7 max-w-3xl text-base leading-8 text-[var(--muted)]">
-              Discorsi, interviste, testi politici e fonti storiche
-              utili per ricostruire direttamente il pensiero e la storia
-              del comunismo italiano.
+              Testi teorici, manifesti, programmi, tesi congressuali, statuti,
+              discorsi, interviste e fonti storiche. Un archivio per distinguere
+              le opere fondative dalle successive interpretazioni politiche.
             </p>
           </div>
         </div>
