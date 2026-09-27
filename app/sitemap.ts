@@ -16,6 +16,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/metodologia",
     "/contatti",
     "/dispense/livorno-1921-nascita-pcdi",
+    "/dispense/gramsci-egemonia",
+    "/dispense/clandestinita-resistenza-togliatti",
   ];
 
   return routes.map((route) => ({
