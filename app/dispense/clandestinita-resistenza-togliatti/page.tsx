@@ -79,7 +79,7 @@ export default function Page() {
                   <Meta label="Autore" value="La Via Italiana" />
                   <Meta label="Periodo" value="1926–1948" />
                   <Meta label="Livello" value="Monografico" />
-                  <Meta label="Lettura" value="50–60 minuti" />
+                  <Meta label="Lettura" value="60–75 minuti" />
                 </div>
               </div>
             </div>
