@@ -41,7 +41,7 @@ export default function ContattiPage() {
               </div>
 
               <h2 className="font-editorial mt-4 text-4xl font-semibold">
-                Contribuisci all'archivio.
+                Contribuisci all&apos;archivio.
               </h2>
             </div>
 
@@ -49,7 +49,7 @@ export default function ContattiPage() {
               <p className="text-base leading-8 text-[var(--muted)]">
                 La pagina contatti verrà successivamente collegata
                 a un indirizzo editoriale dedicato e a un modulo
-                per l'invio di documenti e segnalazioni.
+                per l&apos;invio di documenti e segnalazioni.
               </p>
             </div>
           </div>
